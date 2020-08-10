@@ -47,9 +47,10 @@ body {
     margin-right: 35px;
     text-align: center;
 }
-#prog1{
+#prog{
     height:100%;
     background-color:darkgray;
+    border-radius: 10px;
 }
 #tech_skills {
     border-radius: 10px;
